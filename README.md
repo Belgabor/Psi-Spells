@@ -11,3 +11,6 @@ Tested Psi vsersion: beta-16
 First try at an area fertilize spell. Used with a circle spell bullet it will fertilize a 4 deep and 5 wide area to the right of the block you are targeting. Note: The spell uses the axial look vector of the caster to determine orientation. If you look away it will fertilize the wrong blocks. Also don't look mostly downwards or it will fail completely. Fixing this would make the spell a lot more complex than it is now.
 
 Tested Psi vsersion: beta-11
+
+## Tough tunnel plus
+Based on https://imgur.com/bfLDvQh with pre-greater infusion bandwidth.
